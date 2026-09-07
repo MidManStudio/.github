@@ -15,7 +15,7 @@
 
 ### About MidManStudio
 
-MidManStudio is an indie game development studio founded by **Mid** (*AbdulHamid Muhammad Suleiman*). 
+MidManStudio is an indie game development studio founded by **Mid-D-Man** (*AbdulHamid Mamman Suleiman*). 
 
 We prioritize building our technology stack in-house from first principles rather than relying solely on off-the-shelf packages. While game development is our core focus, our engineering spans across the entire digital spectrum—if it's digital, we build it.
 
