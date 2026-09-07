@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo image stored in your repository -->
-  <img src="./assets/logo.png" alt="MidManStudio Logo" width="340" />
+  <img src="../assets/logo.png" alt="MidManStudio Logo" width="340" />
 
   # MidManStudio
 
